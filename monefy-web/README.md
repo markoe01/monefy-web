@@ -3,4 +3,4 @@
   <span>Monefy-web</span>
 </h1>
 
-All credits goes to original creator: https://vandenbroucke.github.io/
+All credits goes to original creator: https://github.com/vandenbroucke
